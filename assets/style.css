@@ -7,13 +7,14 @@ h2{
 body {
     background-color: grey;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
 
 }
 
 .header {
     padding: 30px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background-color: lightslategray;
+    background-color: paleturquoise;
     color: black;
 }
 
@@ -28,6 +29,7 @@ body {
     float: right;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 25px;
+    
 }
 
 .header div ul {
@@ -37,6 +39,7 @@ body {
 .header div ul li {
     display: inline-block;
     margin-left: 30px;
+    
 }
 
 p {
@@ -45,25 +48,42 @@ p {
 
 .photo {
      background-color: grey;
+     display: inline-block;
+     margin-left: 60px;
+     justify-content: space-evenly;
+     align-items: end;
+     transform: rotate(2deg);
      
     }
 
 img {
-    border: 5px solid black;
-}    
+
+    border: 5px solid paleturquoise;
+}
+
+    
+
+
+.content ul li {
+    display:inline-block;
+    margin-right: 25px;
+    
+}
 
 .marketing {
-  display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
+  
 }
 
 .carnival {
-    align-items: right;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
 }
 
 .content ul li {
     display:inline-block;
     margin-right: 25px;
+    
 }
 
