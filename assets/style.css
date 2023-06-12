@@ -1,12 +1,13 @@
 
 h2{
     text-align: left;
+    font-size: 40px;
 }
 
 body {
     background-color: grey;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    
+
 }
 
 .header {
@@ -37,3 +38,32 @@ body {
     display: inline-block;
     margin-left: 30px;
 }
+
+p {
+    font-size: 20px;
+}
+
+.photo {
+     background-color: grey;
+     
+    }
+
+img {
+    border: 5px solid black;
+}    
+
+.marketing {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.carnival {
+    align-items: right;
+}
+
+.content ul li {
+    display:inline-block;
+    margin-right: 25px;
+}
+
