@@ -8,7 +8,6 @@ body {
     background-color: grey;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
    
-
 }
 
 .header {
@@ -61,8 +60,6 @@ img {
     border: 5px solid paleturquoise;
 }
 
-    
-
 
 .content ul li {
     display:inline-block;
@@ -83,7 +80,11 @@ img {
 
 .content ul li {
     display:inline-block;
-    margin-right: 25px;
+    margin-right: 40px;
+    text-align: right;
     
 }
 
+a:hover{
+    color: plum;
+}

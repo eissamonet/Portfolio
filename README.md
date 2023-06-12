@@ -11,7 +11,7 @@ N/A
 
 ## Usage
 
-View the Portfolio to learn more about my career background, interests, and future goals.
+View the Portfolio to learn more about my career background, interests, and future goals as a Full-Stack Developer.
 
 
 ## Credits
